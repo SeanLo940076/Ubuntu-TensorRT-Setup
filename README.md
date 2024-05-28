@@ -47,5 +47,6 @@ dpkg-query -W tensorrt
 
 You should see something similar to the following:
 ```bash
-tensorrt	8.6.1.x-1+cuda12.0
+tensorrt	8.6.1.6-1+cuda11.8
+
 ```
